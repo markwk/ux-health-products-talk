@@ -52,7 +52,7 @@ Mark Koester
 - Key UX and Product Principles
 - Building Data- and User-Centric Apps: Two Cases
 - Characteristics of Transformative Health 4.0 Apps and Products
-- Conclusion: Why and How to Become a Data-Driven You
+- Conclusion: Bridging Health 4.0
 
 
 
@@ -173,6 +173,14 @@ QS is also become something we do with much of technology but without a specific
 
 ### Products should solve user problems.
 
+---
+
+### Products should be intuitive.
+
+----
+
+### Products should enable skilled practice. 
+
 ----
 
 ### UX Principles
@@ -183,6 +191,15 @@ QS is also become something we do with much of technology but without a specific
 > - Prototype or Build an MVP.
 > - Test and validate.
 > - Rinse and Repeat via Iterative Design. 
+
+---
+
+### UX Challenges in Healthcare
+
+> - Healthcare doesn’t happen in just one place; it's an ecosystem (or even a complex adaptive system) of care.  
+> - Multiple users, perspectives and stakeholders.
+> - Healthcare hasn't embraced IT or design as heavily as other industries. 
+> - Fewer designers and product people as other industries. 
 
 
 
@@ -264,10 +281,24 @@ QS is also become something we do with much of technology but without a specific
 
 ---
 
+### What do users want? 
+
+![](http://www.markwk.com/images/2020-resources/flow-tracking-dashboard.png)
+
+Dashboards
+
+---
+
+### What do users want? 
+
+![](http://www.markwk.com/images/2019-resources/quantified-self-google-data-studio-year-in-review-02.jpg)
+
+---
+
 ### Why does this matter? 
 
-> - Increasingly users don't just want to be told what to do; users want to engage with their own data and personal information (health or otherwise)
-> - As designers, we also need to design to **<u>enable sophisticated and personalized product usage</u>**.  
+> - Increasingly users don't just want to be told what to do; users want to see and engage with their own data and personal information (health or otherwise)
+> - As designers, we also need to design to **<u>enable sophisticated and personalized product usage or skilled practices</u>.**
 
 ---
 
@@ -291,16 +322,49 @@ QS is also become something we do with much of technology but without a specific
 > - Data-Driven
 > - Personalized
 > - Adaptive
+> - Integrates with their health journeys.
 
 ----
 
-### Transformational Apps and Health 4.0
+### 
+
+# Conclusion: Transformational Apps and Health 4.0
+
+### 
+
+In product development, we must think not only about our users and their needs but also what is actually feasible to build, both at the moment and in the future using new technologies. 
+
+----
+
+### 
+
+When we build products in the health space, we must consider not only technology but the entire ecosystem of care and host of other challenges. 
+
+----
+
+### Health 4.0 offers a new path forward.
 
 
 
-# Conclusion: 
+---
+
+### Summary: 
+
+- Health is not about a lack of sickness or disease. It is about health journeys. 
+- My personal health journey reflects this as I pursue well-being, flow, and flourishing. 
+- UX is all about the user. It's about talking, testing and validating with real users (including ourselves). 
+- Products I build enable tracking and a data-driven healthy life.
+- Building transformative health products challenges us to build products that **<u>empower users throughout their health journeys</u>**.
 
 
+
+# {data-background='https://media.giphy.com/media/UYBDCJjwOd9Re/giphy.gif'}
+
+<h3>"In God we trust...</h3> 
+
+<h2 class="fragment">...all others bring data."</h2> 
+
+<small>W. Edwards Deming</small>
 
 # Thanks {data-background='https://media.giphy.com/media/UYBDCJjwOd9Re/giphy.gif'}
 
