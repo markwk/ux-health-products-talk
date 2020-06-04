@@ -1,6 +1,6 @@
 # Building Transformative Health Apps: A UX and Product Perspective
 
-
+[View Slides Online Here](https://markwk.github.io/ux-health-products-talk/slides/slides.html)
 
 # Talk Outline
 
@@ -11,7 +11,7 @@
 - Characteristics of Transformative Health 4.0 Apps and Products
 - Conclusion: Bridging Health 4.0
 
-- https://github.com/markwk)
+
 
 # References
 
@@ -21,6 +21,8 @@
 - QS Ledger: github.com/markwk/qs_ledger
 - QS Mind Map github.com/markwk/qs_mind_map
 - QS Tools: github.com/markwk/awesome-quantified-self
+
+
 
 ### Published References
 
