@@ -308,6 +308,12 @@ Dashboards
 > - Users like <u>data ownership</u> and <u>data engagement</u> or having active role in using and visualizing their data. 
 > - There is no limit to data integrations and how people want to use and explore their data. 
 
+---
+
+### Digital Biomarkers
+
+> Digital biomarkers are consumer-generated physiological and behavioral measures collected through connected digital tools that can be used to explain, influence and/or predict health-related outcomes. - Rock Health
+
 
 
 # Characteristics of Transformative Health Apps
