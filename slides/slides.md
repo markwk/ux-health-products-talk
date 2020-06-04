@@ -434,3 +434,32 @@ Find me online at www.markwk.com!
 
 
 
+# BONUS: Self-Tracking Tips
+
+<h3>Tips on how to become a data-driven you</h3>
+
+-----
+
+## What should I track? 
+
+### Four Essential Areas for Everyone to Track 
+
+- Health
+- Time
+- Goals, Projects and Tasks
+- Money
+
+-----
+
+## How to Track?
+
+### A COUPLE RECOMMENDATIONS
+
+- Health: 
+  - Blood Tests
+  - Sleep 
+  - (and maybe Heart Rate Variability)
+- Time: RescueTime
+- Money: Mint.com or Personal Capital
+- Goals, Projects and Tasks: Todoist
+
